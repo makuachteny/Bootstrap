@@ -1,2 +1,2 @@
 # Bootstrap
-Practicing bootstrap for styling and dynamics
+Practicing bootstrap for web styling and dynamics
