@@ -1,2 +1,2 @@
 # Bootstrap
-Using Bootstrap for web styling and dynamics
+Using Bootstrap for responsive development
