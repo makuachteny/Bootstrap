@@ -1,2 +1,2 @@
 # Bootstrap
-Using Bootstrap for responsive development
+Using Bootstrap for responsive development.
